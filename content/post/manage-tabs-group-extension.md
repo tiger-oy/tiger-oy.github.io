@@ -10,7 +10,7 @@ categories: ["program"]
 
 ---
 
-> A simple browser tool to manage tabs: merge tabs to group by domain, cancel merge
+> A open source simple browser widgets to manage tabs: merge tabs to group by domain, cancel merge
 > merge windows, reset windows, remove duplicated tabs
 
 ## Install & Get it

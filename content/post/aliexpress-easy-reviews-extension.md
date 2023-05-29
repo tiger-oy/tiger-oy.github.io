@@ -10,7 +10,7 @@ categories: ["program"]
 
 ---
 
-> A simple browser widgets to help you view Aliexpress product **Reviews** on the search result page or category page with a single 1 click to open a dailog without open a new tab of the product detail page
+> A open source simple browser widgets to help you view Aliexpress product **Reviews** on the search result page or category page with a single 1 click to open a dailog without open a new tab of the product detail page
 
 
 ## code
