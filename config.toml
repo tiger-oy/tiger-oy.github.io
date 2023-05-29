@@ -182,7 +182,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "geckoinfo.top@email.com"
+    a-email = "mailto:geckoinfo.top@email.com"
     c-twitter = "http://localhost:1313"
     g-github = "http://localhost:1313"
     o-bilibili = "http://localhost:1313"
