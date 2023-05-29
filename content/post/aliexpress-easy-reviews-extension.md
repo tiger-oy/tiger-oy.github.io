@@ -1,7 +1,7 @@
 ---
 title: "A browser extension - Aliexpress easy Reviews"
-date: 2023-05-21T22:37:56+08:00
-lastmod: 2023-05-22T21:37:56+08:00
+date: 2023-05-29T15:37:56+08:00
+lastmod: 2023-05-29T15:37:56+08:00
 draft: false
 comment: true
 tags: ["browser extension", "aliexpress"]
