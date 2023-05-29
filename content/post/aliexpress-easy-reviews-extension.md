@@ -15,7 +15,7 @@ categories: ["program"]
 
 
 ## Install & Get it
-  [Edge extension](https://microsoftedge.microsoft.com/addons/detail/jpejincpobgdepoapjhhjffigkmkggbf)
+  [Edge extension](https://microsoftedge.microsoft.com/addons/detail/bfjondiljolkhnelfidcmganfdfcjkjn)
 
   [Chrome extension](https://chrome.google.com/webstore/detail/jpejincpobgdepoapjhhjffigkmkggbf)
 
