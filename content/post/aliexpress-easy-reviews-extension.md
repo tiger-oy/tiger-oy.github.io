@@ -13,6 +13,13 @@ categories: ["program"]
 > A open source simple browser widgets to help you view Aliexpress product **Reviews** on the search result page or category page with a single 1 click to open a dailog without open a new tab of the product detail page
 
 
+
+## Install & Get it
+  [Edge extension](https://microsoftedge.microsoft.com/addons/detail/jpejincpobgdepoapjhhjffigkmkggbf)
+
+  [Chrome extension](https://chrome.google.com/webstore/detail/jpejincpobgdepoapjhhjffigkmkggbf)
+
+
 ## code
  [Aliexpress easy Reviews](https://github.com/tiger-oy/alireviews)
 
@@ -24,6 +31,8 @@ categories: ["program"]
 
 ## Detail 
 
+
+{{< youtube id="bO_RfYPls4M" autoplay="true" >}}
 {{< figure src="/images/alireviews01.png" title="category page" >}}
 {{< figure src="/images/alireviews02.png" title="keyword search reuslt page" >}}
 {{< figure src="/images/alireviews03.png" title="dailog" >}}
