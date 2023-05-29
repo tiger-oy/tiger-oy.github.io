@@ -1,7 +1,7 @@
 ---
 title: "A browser extension - manage tabs group windows"
 date: 2023-05-21T22:37:56+08:00
-lastmod: 2023-05-22T21:37:56+08:00
+lastmod: 2023-05-29T16:44:56+08:00
 draft: false
 comment: true
 tags: ["browser extension", "manage tabs"]
@@ -17,6 +17,10 @@ categories: ["program"]
   [Edge extension](https://microsoftedge.microsoft.com/addons/detail/bfjondiljolkhnelfidcmganfdfcjkjn)
 
   [Chrome extension](https://chrome.google.com/webstore/detail/manage-tabs-group/doldheijdfjcgogmkodalapffdhdnbcp)
+
+## code
+ [Manage Tabs Group](https://github.com/tiger-oy/managetabsgroup)
+ 
 
 ## Description  
 
