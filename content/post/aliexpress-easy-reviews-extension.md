@@ -1,0 +1,26 @@
+---
+title: "A browser extension - Aliexpress easy Reviews"
+date: 2023-05-21T22:37:56+08:00
+lastmod: 2023-05-22T21:37:56+08:00
+draft: false
+comment: true
+tags: ["browser extension", "aliexpress"]
+categories: ["program"]
+
+
+---
+
+> A simple browser widgets to help you view Aliexpress product **Reviews** on the search result page or category page with a single 1 click to open a dailog without open a new tab of the product detail page
+
+
+## Features  
+
+-  keyords search result page: *aliexpress.com/w/wholesale-*, *aliexpress.us/w/wholesale-*
+-  category page: *aliexpress.com/category/*,*aliexpress.us/category/*
+
+
+## Detail 
+
+{{< figure src="/images/alireviews01.png" title="category page" >}}
+{{< figure src="/images/alireviews02.png" title="keyword search reuslt page" >}}
+{{< figure src="/images/alireviews03.png" title="dailog" >}}
