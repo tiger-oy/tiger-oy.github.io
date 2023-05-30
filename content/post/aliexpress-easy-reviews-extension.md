@@ -25,6 +25,7 @@ categories: ["program"]
 ## Features  
 
 -  keyords search result page: *aliexpress.com/w/wholesale-*, *aliexpress.us/w/wholesale-*
+-  keyords search result page: *aliexpress.com/af/*, *aliexpress.us/af/*
 -  category page: *aliexpress.com/category/*,*aliexpress.us/category/*
 
 
