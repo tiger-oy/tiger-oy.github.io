@@ -15,7 +15,8 @@ categories: ["program"]
 
 
 ## Install & Get it
-  waiting...
+
+  [Chrome extension](https://chrome.google.com/webstore/detail/aliexpress-easy-reviews/jpejincpobgdepoapjhhjffigkmkggbf)
 
 
 ## code
