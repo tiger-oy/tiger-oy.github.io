@@ -18,6 +18,10 @@ categories: ["program"]
 
   [Chrome extension](https://chrome.google.com/webstore/detail/aliexpress-easy-reviews/jpejincpobgdepoapjhhjffigkmkggbf)
 
+  [Edge extension](https://microsoftedge.microsoft.com/addons/detail/mcjpkgijfjemcaofedeilkkhggoldnoo)
+
+  
+
 
 ## code
  [Aliexpress easy Reviews](https://github.com/tiger-oy/alireviews)
