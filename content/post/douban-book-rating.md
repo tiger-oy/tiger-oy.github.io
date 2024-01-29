@@ -16,9 +16,9 @@ categories: ["program"]
 
 ## 安装 & 获取
 
-  [Chrome extension]()
+  [Chrome extension](https://chrome.google.com/webstore/detail/lplfgfpnjmailcpbfncfjfdhmcoakkhj?authuser=0&hl=en)
 
-  [Edge extension]()
+  <!-- [Edge extension]() -->
 
   
 ## 特性  
