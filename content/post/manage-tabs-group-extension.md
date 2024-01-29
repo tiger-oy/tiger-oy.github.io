@@ -2,7 +2,7 @@
 title: "A browser extension - manage tabs group windows"
 date: 2023-05-21T22:37:56+08:00
 lastmod: 2023-05-29T16:44:56+08:00
-draft: false
+draft: true
 comment: true
 tags: ["browser extension", "manage tabs"]
 categories: ["program"]
