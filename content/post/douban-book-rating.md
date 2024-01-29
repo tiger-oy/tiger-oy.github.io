@@ -5,7 +5,7 @@ lastmod: 2024-01-29T16:47:56+08:00
 draft: false
 comment: true
 tags: ["browser extension", "豆瓣"]
-categories: ["program"]
+categories: ["浏览器插件"]
 
 
 ---
